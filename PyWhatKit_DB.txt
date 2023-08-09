@@ -1,0 +1,25 @@
+Date: 8/8/2023
+Time: 14:15
+Phone Number: +5532999735726
+Message: Test message from a Python script!
+--------------------
+Date: 8/8/2023
+Time: 14:17
+Phone Number: +5532999735726
+Message: Test message from a Python script!
+--------------------
+Date: 8/8/2023
+Time: 14:18
+Phone Number: +5532999735726
+Message: mensagem em portugues!
+--------------------
+Date: 8/8/2023
+Time: 14:21
+Phone Number: +5532999735726
+Message: Hello from GeeksforGeeks
+--------------------
+Date: 8/8/2023
+Time: 14:21
+Phone Number: +5532999735726
+Message: Hello from GeeksforGeeks
+--------------------
